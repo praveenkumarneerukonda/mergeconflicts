@@ -11,8 +11,10 @@ public static void main(String args[])
   n1=n2;    
   n2=n3;    
  }    
+stark-02
+  //modify by tony-02
   //modify by tony-01
-  class FibonacciExample2{  
+devloper
  static int n1=0,n2=1,n3=0;    
  static void printFibonacci(int count){
 }
